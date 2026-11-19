@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">WeatherAdjusted Solar</title>
+  <circle cx="32" cy="32" r="15.4" fill="#f6e4c8" stroke="#1c2822" stroke-width="2.15"/>
+  <line x1="32.00" y1="12.80" x2="32.00" y2="3.80" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="45.58" y1="18.42" x2="51.94" y2="12.06" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="51.20" y1="32.00" x2="60.20" y2="32.00" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="45.58" y1="45.58" x2="51.94" y2="51.94" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="32.00" y1="51.20" x2="32.00" y2="60.20" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="18.42" y1="45.58" x2="12.06" y2="51.94" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="12.80" y1="32.00" x2="3.80" y2="32.00" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="18.42" y1="18.42" x2="12.06" y2="12.06" stroke="#1c2822" stroke-width="2.35" stroke-linecap="round"/>
+  <line x1="32" y1="32" x2="42.07" y2="26.65" stroke="#b86a28" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="2.35" fill="#1c2822"/>
+</svg>
